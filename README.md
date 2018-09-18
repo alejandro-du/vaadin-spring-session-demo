@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/spring-session-redis)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/spring-session-redis.svg)](https://vaadin.com/directory/component/spring-session-redis)
+
 # vaadin-spring-session-demo
 A Spring Boot application with a Vaadin front-end that shows how to use Spring Session to replace the standard HttpSession with Redis.
 
